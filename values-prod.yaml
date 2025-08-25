@@ -1,5 +1,5 @@
 ilum-jupyter:
-  enabled: false
+  enabled: true
 
 gitea:
   enabled: false
